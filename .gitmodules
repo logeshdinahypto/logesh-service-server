@@ -1,0 +1,3 @@
+[submodule "logesh-service-models"]
+	path = logesh-service-models
+	url = https://github.com/logeshdinahypto/logesh-service-models.git

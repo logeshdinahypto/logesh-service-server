@@ -1,0 +1,8 @@
+version: "3"
+services:
+  logesh-service:
+    image: ${DOCKER_REGISTRY}/logesh-service
+    build:
+      context: .
+    ports:
+      - "50051:50051"
